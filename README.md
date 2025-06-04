@@ -1,3 +1,25 @@
+# MouQi - 智能AI工具导航平台
+
+MouQi是一个专业的AI工具发现平台，汇聚全球优质AI工具，助力您的创作与工作效率提升。
+
+## 🌟 主要功能
+
+- 🔍 智能搜索和分类浏览
+- 📱 响应式设计，支持移动端
+- 👨‍💼 管理员后台管理
+- 🎨 现代化UI设计
+- ⚡ 基于Next.js 15构建
+
+## 🚀 快速开始
+
+首先安装依赖：
+
+```bash
+npm install
+# 或
+yarn install
+```
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
